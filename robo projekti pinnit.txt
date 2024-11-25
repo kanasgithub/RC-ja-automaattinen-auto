@@ -1,0 +1,5 @@
+GPIO 13 SERVO PIN
+moottorit GPIO 33, 25, 26, 27
+ultrasonic ECHO 34, TRIG 14
+ir sensor 35 ANALOGI
+RC toggle pin 16
